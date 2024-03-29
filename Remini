@@ -10,7 +10,7 @@
 
 [重写本地]
 
-^https?:\/\/.*\.oracle\.bendingspoonsapps\.com\/v\d\/(users\/.+|purchases\/verify) url script-response-body https://github.com/yeshelp737/changan/new/main.js
+^https?:\/\/.*\.oracle\.bendingspoonsapps\.com\/v\d\/(users\/.+|purchases\/verify) url script-response-body https://github.com/yeshelp737/changan/blob/main/Remini.js
 
 [中间人]
 
